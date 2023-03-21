@@ -11,7 +11,7 @@ Check below the preview and results.
 
 # Project Preview 🤩
 
-![Projeto 03](https://user-images.githubusercontent.com/122500633/226526891-b7c5704f-1aeb-4c32-91ee-3dc89b405bee.png)
+![Projeto 03](https://user-images.githubusercontent.com/122500633/226527172-2010eff9-7bf1-44cf-956c-70664029d683.png)
 
 </div>
 <h2 align="center"> What I did use for this project 👇</h2>
